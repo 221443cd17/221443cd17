@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @221443cd17 - Asilbek
+- 👋 Hi, I’m @221443cs17 - Asilbek
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me 221443@akfauniversity.org
